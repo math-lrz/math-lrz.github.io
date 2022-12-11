@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: tree.ico
+  src: /assets/img/profile-pic.jpg
   alt: website picture
 ---
 
