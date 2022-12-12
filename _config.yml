@@ -37,7 +37,7 @@ author:
   type      : person # "person" (default), "organization"
   name      : math-lrz
   url       :
-  avatar    : # path or url of avatar image (square)
+  avatar    : maomi.JPG # path or url of avatar image (square)
   bio       : I am a mathematics student
   email     : math.lrz@st.cupk.edu.cn
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
