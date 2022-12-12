@@ -108,8 +108,8 @@ sources: # bootcdn (default), unpkg
 ## => Sharing
 ##############################
 sharing:
-  provider: false # false (default), "addtoany", "addthis", "custom"
-
+  provider: ture # false (default), "addtoany", "addthis", "custom"
+  
   ## AddThis
   addthis:
     id: # AddThis pubid, e.g. ra-5xxxxxxxxxxx
