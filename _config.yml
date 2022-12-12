@@ -20,9 +20,9 @@ text_skin: default # "forest" (forest), "dark", "forest", "ocean", "chocolate", 
 highlight_theme: default # "tomorrow" (tomorrow), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://math-lrz.github.io
 baseurl : # does not include hostname
-title   : math-lrz
+title   : Home
 description: > # this means to ignore newlines until "Language & timezone"
-  To share what I have learned and my perspective on something of interest.
+  
 
 
 ## => Language and Timezone
@@ -46,10 +46,10 @@ author:
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
-  zhihu     : "零临临"https://www.zhihu.com/people/mu-ji-si-wang # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
+  zhihu     : "零临临" https://www.zhihu.com/people/mu-ji-si-wang # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : "math-lrz"https://github.com/math-lrz # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : "math-lrz" https://github.com/math-lrz # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
