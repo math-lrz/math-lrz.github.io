@@ -6,7 +6,7 @@ articles_excerpt_type: html
 show_subscribe: false
 ---
 
-本指南内容来自[一份硬核计算机科学CS自学计划](https://github.com/spring2go/cs_study_plan)以及[CS 自学指南](https://github.com/pkuflyingpig/cs-self-learning/)，适用于计算机零基础的数学系本科生学习，学完后能够达到计算机系本科科班水平。
+本指南内容来自 [*一份硬核计算机科学CS自学计划*](https://github.com/spring2go/cs_study_plan) 以及 [*CS 自学指南*](https://github.com/pkuflyingpig/cs-self-learning/) ，适用于计算机零基础的数学系本科生学习，涵盖了计算机专业的核心课程。
 <!--more-->
 
 
@@ -14,7 +14,7 @@ show_subscribe: false
 
 课程视频：[Crash Course: Computer Science](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1EW411u7th)
 
-产出目标：将学的知识点梳理出来，整理成博文发布在[math-lrz](https://math-lrz.github.io/)
+产出目标：将学的知识点梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
 
 预计学时：8小时
 
@@ -34,7 +34,7 @@ show_subscribe: false
 1.   课程网站：[https://missing.csail.mit.edu/2020/](https://missing.csail.mit.edu/2020/)
 2.   课程视频：[https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 
-产出目标：完成课程站点上的所有随堂小练习，并将学的知识点再梳理出来，整理成博文发布在[math-lrz](https://math-lrz.github.io/)
+产出目标：完成课程站点上的所有随堂小练习，并将学的知识点再梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
 
 说明：正如课程名字所言：“计算机教学中消失的一个学期”，这门课将会教会你许多大学的课堂上不会涉及但却对每个 CSer 无比重要的工具或者知识点。例如 Shell 编程、命令行配置、Git、Vim、`tmux`、`ssh` 等等。如果你是一个计算机小白，那么我非常建议你学习一下这门课，因为它基本涉及了本书必学工具中的绝大部分内容。
 
@@ -50,7 +50,7 @@ show_subscribe: false
 
 预计学时：3个月，每周不少于10小时
 
-产出目标：完成课程站点上的所有14个Steps实验+3个Projects，并将学的知识点再梳理出来，整理成博文发布在[math-lrz](https://math-lrz.github.io/)
+产出目标：完成课程站点上的所有14个Steps实验+3个Projects，并将学的知识点再梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
 
 说明：
 
@@ -67,7 +67,7 @@ show_subscribe: false
 
 预计学时：6个月，每周不少于10小时
 
-产出目标：完成[CSAPP书籍配套的所有Labs](https://link.zhihu.com/?target=http%3A//csapp.cs.cmu.edu/3e/labs.html)，并将学的知识点再梳理出来，整理成博文发布在[math-lrz](https://math-lrz.github.io/)
+产出目标：完成[CSAPP书籍配套的所有Labs](https://link.zhihu.com/?target=http%3A//csapp.cs.cmu.edu/3e/labs.html)，并将学的知识点再梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
 
 挑战难度：4星
 
@@ -83,7 +83,7 @@ show_subscribe: false
 
 预计学时：6个月，每周不少于10小时
 
-产出目标：完成CS 61B站点上的所有Labs/Homeworks/Projects，并将学的知识点再梳理出来，整理成博文发布在[math-lrz](https://math-lrz.github.io/)
+产出目标：完成CS 61B站点上的所有Labs/Homeworks/Projects，并将学的知识点再梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
 
 挑战难度：4星
 
@@ -99,7 +99,7 @@ show_subscribe: false
 
 预计学时：6个月，每周不少于10小时
 
-产出目标：完成MIT 6.828站点上的所有7个Labs，并将学的知识点再梳理出来，整理成博文发布在[math-lrz](https://math-lrz.github.io/)
+产出目标：完成MIT 6.828站点上的所有7个Labs，并将学的知识点再梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
 
 挑战难度：5星
 
@@ -115,7 +115,7 @@ show_subscribe: false
 
 预计学时：6个月，每周不少于10小时
 
-产出目标：完成CS 144 站点上的所有8个Labs，并将学的知识点再梳理出来，整理成博文发布在[math-lrz](https://math-lrz.github.io/)
+产出目标：完成CS 144 站点上的所有8个Labs，并将学的知识点再梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
 
 挑战难度：4星
 
@@ -131,7 +131,7 @@ show_subscribe: false
 
 产出目标：参考[Crafting Interpreters](https://link.zhihu.com/?target=https%3A//github.com/munificent/craftinginterpreters)，使用Java或者[golang](https://www.zhihu.com/search?q=golang&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2691494778%7D)语言(或其它你熟悉的语言)，实现Lox小型编程语言；
 
-或者，参考[Write an Interpreter in Go](https://link.zhihu.com/?target=https%3A//interpreterbook.com/)，或[Write A Compiler in Go](https://link.zhihu.com/?target=https%3A//compilerbook.com/)，使用Java语言实现Monkey小型语言。并将学的知识点再梳理出来，整理成博文发布在[math-lrz](https://math-lrz.github.io/)
+或者，参考[Write an Interpreter in Go](https://link.zhihu.com/?target=https%3A//interpreterbook.com/)，或[Write A Compiler in Go](https://link.zhihu.com/?target=https%3A//compilerbook.com/)，使用Java语言实现Monkey小型语言。并将学的知识点再梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
 
 挑战难度：5星
 
@@ -147,7 +147,7 @@ show_subscribe: false
 
 预计学时：6个月，每周不少于10小时
 
-产出目标：参考[vanilladb项目](https://link.zhihu.com/?target=https%3A//github.com/vanilladb/vanillacore)，使用golang语言实现clone版的vanilladb（原项目是Java实现的），并将学的知识点再梳理出来，整理成博文发布在[math-lrz](https://math-lrz.github.io/)
+产出目标：参考[vanilladb项目](https://link.zhihu.com/?target=https%3A//github.com/vanilladb/vanillacore)，使用golang语言实现clone版的vanilladb（原项目是Java实现的），并将学的知识点再梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
 
 挑战难度：5星
 
