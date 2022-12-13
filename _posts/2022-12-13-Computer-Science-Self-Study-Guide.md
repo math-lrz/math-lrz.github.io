@@ -132,6 +132,7 @@ show_subscribe: false
 产出目标：参考[Crafting Interpreters](https://link.zhihu.com/?target=https%3A//github.com/munificent/craftinginterpreters)，使用Java或者[golang](https://www.zhihu.com/search?q=golang&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2691494778%7D)语言(或其它你熟悉的语言)，实现Lox小型编程语言；
 
 或者，参考[Write an Interpreter in Go](https://link.zhihu.com/?target=https%3A//interpreterbook.com/)，或[Write A Compiler in Go](https://link.zhihu.com/?target=https%3A//compilerbook.com/)，使用Java语言实现Monkey小型语言。并将学的知识点再梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
+
 挑战难度：5星
 
 说明：视频可以不看，但是一定要自己动手实现一个小语言解释器或者编译器。
