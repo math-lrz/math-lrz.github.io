@@ -12,7 +12,7 @@ show_subscribe: false
 
 ### **CS导论课**
 
-课程视频：[Crash Course: Computer Science](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1EW411u7th)
+课程视频：[Crash Course: Computer Science](https://www.bilibili.com/video/BV1EW411u7th)
 
 产出目标：将学的知识点梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
 
@@ -40,7 +40,7 @@ show_subscribe: false
 
 ### **C语言基础**
 
-参考课程：密歇根州立大学[CSE 251 Programming in C](https://link.zhihu.com/?target=https%3A//www.cse.msu.edu/~cse251/index.html)
+参考课程：密歇根州立大学[CSE 251 Programming in C](https://www.cse.msu.edu/~cse251/index.html)
 
 参考书：The Absolute Beginner's Guide to C(或其它C语言参考书)
 
@@ -59,15 +59,15 @@ show_subscribe: false
 
 ### **深入理解计算机系统**
 
-参考课程：华盛顿大学[CSE351: The Hardware/Software Interface](https://link.zhihu.com/?target=http%3A//courses.cs.washington.edu/courses/cse351/)
+参考课程：华盛顿大学[CSE351: The Hardware/Software Interface](https:courses.cs.washington.edu/courses/cse351/)
 
-参考书籍：[深入理解计算机系统(CSAPP)](https://link.zhihu.com/?target=http%3A//product.dangdang.com/24106647.html)
+参考书籍：[深入理解计算机系统(CSAPP)](https://product.dangdang.com/24106647.html)
 
-参考视频：B站 [Washington CSE351 2017](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1Zt411s7Gg)
+参考视频：B站 [Washington CSE351 2017](https://www.bilibili.com/video/BV1Zt411s7Gg)
 
 预计学时：6个月，每周不少于10小时
 
-产出目标：完成[CSAPP书籍配套的所有Labs](https://link.zhihu.com/?target=http%3A//csapp.cs.cmu.edu/3e/labs.html)，并将学的知识点再梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
+产出目标：完成[CSAPP书籍配套的所有Labs](https://csapp.cs.cmu.edu/3e/labs.html)，并将学的知识点再梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
 
 挑战难度：4星
 
@@ -75,11 +75,11 @@ show_subscribe: false
 
 ### **数据结构**
 
-参考课程：伯克利大学[CS61B Data Structures](https://link.zhihu.com/?target=https%3A//sp19.datastructur.es/)
+参考课程：伯克利大学[CS61B Data Structures](https://sp19.datastructur.es/)
 
 参考书籍：Head First Java + 数据结构书自选
 
-参考视频：B站 [UCB CS 61B Data Structures](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1EJ411n72e)
+参考视频：B站 [UCB CS 61B Data Structures](https://www.bilibili.com/video/BV1EJ411n72e)
 
 预计学时：6个月，每周不少于10小时
 
@@ -91,11 +91,11 @@ show_subscribe: false
 
 ### **操作系统**
 
-参考课程：麻省理工MIT 6.828 [Operating System Engineering](https://link.zhihu.com/?target=https%3A//pdos.csail.mit.edu/6.828/2018/index.html)
+参考课程：麻省理工MIT 6.828 [Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/index.html)
 
-参考书籍：[操作系统导论(Operating Systems: Three Easy Pieces)](https://link.zhihu.com/?target=http%3A//product.dangdang.com/27882546.html)
+参考书籍：[操作系统导论(Operating Systems: Three Easy Pieces)](https://product.dangdang.com/27882546.html)
 
-参考视频：B站 [HMC CS 134 2019 Operating System](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av47977122)
+参考视频：B站 [HMC CS 134 2019 Operating System](https://www.bilibili.com/video/av47977122)
 
 预计学时：6个月，每周不少于10小时
 
@@ -107,11 +107,11 @@ show_subscribe: false
 
 ### **计算机网络**
 
-参考课程：斯坦福 [CS 144 Introduction to Computer Networking](https://link.zhihu.com/?target=https%3A//cs144.github.io/)
+参考课程：斯坦福 [CS 144 Introduction to Computer Networking](https://cs144.github.io/)
 
-参考书籍：[计算机网络：自顶向下方法](https://link.zhihu.com/?target=http%3A//product.dangdang.com/25299722.html)
+参考书籍：[计算机网络：自顶向下方法](https://product.dangdang.com/25299722.html)
 
-参考视频：B站 [斯坦福大学：CS144 计算机网络介绍](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV137411Z7LR)
+参考视频：B站 [斯坦福大学：CS144 计算机网络介绍](https://www.bilibili.com/video/BV137411Z7LR)
 
 预计学时：6个月，每周不少于10小时
 
@@ -123,15 +123,15 @@ show_subscribe: false
 
 ### **编译原理**
 
-参考书籍：[Crafting Interpreters](https://link.zhihu.com/?target=https%3A//www.craftinginterpreters.com/contents.html) 或者 [Write an Interpreter in Go](https://link.zhihu.com/?target=https%3A//www.amazon.com/Writing-Interpreter-Go-Thorsten-Ball/dp/3982016118)
+参考书籍：[Crafting Interpreters](https://www.craftinginterpreters.com/contents.html) 或者 [Write an Interpreter in Go](https://www.amazon.com/Writing-Interpreter-Go-Thorsten-Ball/dp/3982016118)
 
-参考视频：B站 [CS143 斯坦福编译原理](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1cE411f78c)
+参考视频：B站 [CS143 斯坦福编译原理](https://www.bilibili.com/video/BV1cE411f78c)
 
 预计学时：6个月，每周不少于10小时
 
-产出目标：参考[Crafting Interpreters](https://link.zhihu.com/?target=https%3A//github.com/munificent/craftinginterpreters)，使用Java或者[golang](https://www.zhihu.com/search?q=golang&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2691494778%7D)语言(或其它你熟悉的语言)，实现Lox小型编程语言；
+产出目标：参考[Crafting Interpreters](https://github.com/munificent/craftinginterpreters)，使用Java或者[golang](https://www.zhihu.com/search?q=golang&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2691494778%7D)语言(或其它你熟悉的语言)，实现Lox小型编程语言；
 
-或者，参考[Write an Interpreter in Go](https://link.zhihu.com/?target=https%3A//interpreterbook.com/)，或[Write A Compiler in Go](https://link.zhihu.com/?target=https%3A//compilerbook.com/)，使用Java语言实现Monkey小型语言。并将学的知识点再梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
+或者，参考[Write an Interpreter in Go](https://interpreterbook.com/)，或[Write A Compiler in Go](https://compilerbook.com/)，使用Java语言实现Monkey小型语言。并将学的知识点再梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
 
 挑战难度：5星
 
@@ -139,15 +139,15 @@ show_subscribe: false
 
 ### **数据库系统**
 
-参考课程：卡耐基梅隆CMU [15-445/645 Database Systems](https://link.zhihu.com/?target=https%3A//15445.courses.cs.cmu.edu/fall2020/)
+参考课程：卡耐基梅隆CMU [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu/fall2020/)
 
-参考书籍：[数据库系统概念](https://link.zhihu.com/?target=http%3A//product.dangdang.com/22632572.html)
+参考书籍：[数据库系统概念](https://product.dangdang.com/22632572.html)
 
-参考视频：B站 [卡耐基梅隆大学15-445 数据库系统介绍](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/BV1Cp4y1C7dv)
+参考视频：B站 [卡耐基梅隆大学15-445 数据库系统介绍](https://www.bilibili.com/video/BV1Cp4y1C7dv)
 
 预计学时：6个月，每周不少于10小时
 
-产出目标：参考[vanilladb项目](https://link.zhihu.com/?target=https%3A//github.com/vanilladb/vanillacore)，使用golang语言实现clone版的vanilladb（原项目是Java实现的），并将学的知识点再梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
+产出目标：参考[vanilladb项目](https://github.com/vanilladb/vanillacore)，使用golang语言实现clone版的vanilladb（原项目是Java实现的），并将学的知识点再梳理出来，整理成博文并发布(如本人发布在[math-lrz](https://math-lrz.github.io/))
 
 挑战难度：5星
 
