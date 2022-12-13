@@ -7,6 +7,9 @@ show_subscribe: false
 ---
 
 本指南内容来自 [*一份硬核计算机科学CS自学计划*](https://github.com/spring2go/cs_study_plan) 以及 [*CS 自学指南*](https://github.com/pkuflyingpig/cs-self-learning/) ，适用于计算机零基础的数学系本科生学习，涵盖了计算机专业的核心课程。
+
+---
+
 <!--more-->
 
 
