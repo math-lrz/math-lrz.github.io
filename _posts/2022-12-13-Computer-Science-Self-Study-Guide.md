@@ -10,9 +10,6 @@ show_subscribe: false
 
 <!--more-->
 
----
-
-
 ### **CS导论课**
 
 课程视频：[Crash Course: Computer Science](https://www.bilibili.com/video/BV1EW411u7th)
