@@ -205,6 +205,7 @@ defaults:
       type: posts
     values:
       layout: article
+      comment: true
       sharing: true
       license: true
       aside:
