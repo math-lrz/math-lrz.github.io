@@ -213,7 +213,8 @@ defaults:
       show_edit_on_github: true
       show_subscribe: false
       pageview: true
-
+      articles_excerpt_type: html
+      
 
 ## => Plugins
 ##############################
