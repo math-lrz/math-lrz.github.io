@@ -23,8 +23,6 @@ baseurl : # does not include hostname
 title   : math-lrz
 description: > # this means to ignore newlines until "Language & timezone"
   A student from the Mathematics department of CUPK21.
-
-
 ## => Language and Timezone
 ##############################
 lang: en # the language of your site, default as "en"
@@ -49,7 +47,7 @@ author:
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : "math-lrz"(https://math-lrz.github.io) # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
@@ -108,17 +106,17 @@ sources: # bootcdn (default), unpkg
 ## => Sharing
 ##############################
 sharing:
-  provider: addthis # false (default), "addtoany", "addthis", "custom"
+  provider: false # false (default), "addtoany", "addthis", "custom"
   
   ## AddThis
   addthis:
-    id: 1410764177 # AddThis pubid, e.g. ra-5xxxxxxxxxxx
+    id: # AddThis pubid, e.g. ra-5xxxxxxxxxxx
 
 
 ## => Comments
 ##############################
 comments:
-  provider: gitalk
+  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
@@ -127,12 +125,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : ede879d16d8692614290 # GitHub Application Client ID
-    clientSecret: 6f865dc8d458745d0c6115407303de7decd25a6d # GitHub Application Client Secret
-    repository  : math-lrz/math-lrz.github.io # GitHub repo
-    owner       : math-lrz # GitHub repo owner
+    clientID    : # GitHub Application Client ID
+    clientSecret: # GitHub Application Client Secret
+    repository  : # GitHub repo
+    owner       : # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # -  math-lrz
+      # - your GitHub Id
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
@@ -212,7 +210,7 @@ defaults:
       aside:
         toc: true
       show_edit_on_github: true
-      show_subscribe: true
+      show_subscribe: false
       pageview: true
 
 
