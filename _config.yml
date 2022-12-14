@@ -49,7 +49,7 @@ author:
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    :"math-lrz"(https://math-lrz.github.io) # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : "math-lrz"(https://math-lrz.github.io) # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
@@ -127,12 +127,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : "ede879d16d8692614290" # GitHub Application Client ID
-    clientSecret: "6f865dc8d458745d0c6115407303de7decd25a6d" # GitHub Application Client Secret
+    clientID    : ede879d16d8692614290 # GitHub Application Client ID
+    clientSecret: 6f865dc8d458745d0c6115407303de7decd25a6d # GitHub Application Client Secret
     repository  : math-lrz/math-lrz.github.io # GitHub repo
     owner       : math-lrz # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # -  "math-lrz"
+      # -  math-lrz
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
