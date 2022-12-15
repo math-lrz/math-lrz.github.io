@@ -7,7 +7,7 @@ tags: CS 指南
 
 <!--more-->
 
-### **CS导论课**
+## **CS导论课**
 
 课程视频：[Crash Course: Computer Science](https://www.bilibili.com/video/BV1EW411u7th)
 
@@ -17,7 +17,7 @@ tags: CS 指南
 
 说明：此课程在短短 8 个小时里非常生动且全面地科普了关于计算机科学的方方面面：计算机的历史、计算机是如何运作的、组成计算机的各个重要模块、计算机科学中的重要思想等等等等。正如它的口号所说的 _Computers are not magic!_，希望看完这个视频之后，大家能对计算机科学有个全貌性地感知，从而怀着兴趣去面对下面浩如烟海的更为细致且深入的学习内容。
 
-### **MIT-Missing-Semester**
+## **MIT-Missing-Semester**
 
 课程简介：
 
@@ -35,7 +35,7 @@ tags: CS 指南
 
 说明：正如课程名字所言：“计算机教学中消失的一个学期”，这门课将会教会你许多大学的课堂上不会涉及但却对每个 CSer 无比重要的工具或者知识点。例如 Shell 编程、命令行配置、Git、Vim、`tmux`、`ssh` 等等。如果你是一个计算机小白，那么我非常建议你学习一下这门课，因为它基本涉及了本书必学工具中的绝大部分内容。
 
-### **C语言基础**
+## **C语言基础**
 
 参考课程：密歇根州立大学[CSE 251 Programming in C](https://www.cse.msu.edu/~cse251/index.html)
 
@@ -54,7 +54,7 @@ tags: CS 指南
 1.  这门课相当于是CS101，为什么要学C语言？因为C语言是现在主流语言的鼻祖，也是主流系统编程语言，系统架构师必须懂C语言。另外，下门课程深入理解计算机系统需要C语言+Linux编程基础。
 2.  课程站点上面的PPT可以大致浏览一下，如果已经有足够编程基础的话，书可看可不看，关键是14个实验和3个项目要搞定。
 
-### **深入理解计算机系统**
+## **深入理解计算机系统**
 
 参考课程：华盛顿大学[CSE351: The Hardware/Software Interface](https:courses.cs.washington.edu/courses/cse351/)
 
@@ -70,7 +70,7 @@ tags: CS 指南
 
 说明：这门课程是系统编程基础，也是后续操作系统/网络/数据库/编译等课程的基础，相关内容是通向系统架构师的基本功。这门课比较贴近企业实战，对动手能力要求很高，课程一大目标是要程序员写出对机器友好的高性能代码。
 
-### **数据结构**
+## **数据结构**
 
 参考课程：伯克利大学[CS61B Data Structures](https://sp19.datastructur.es/)
 
@@ -86,7 +86,7 @@ tags: CS 指南
 
 说明：数据结构的重要性毋庸置疑，伯克利的CS课程都是比较偏向实战型工程师的，纯理论的东西相对少。本课的重点是树立抽象编程思维，务必把所有Labs/Homeworks/Projects都搞定。
 
-### **操作系统**
+## **操作系统**
 
 参考课程：麻省理工MIT 6.828 [Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/index.html)
 
@@ -102,7 +102,7 @@ tags: CS 指南
 
 说明：6.828是MIT的神课，这门课难度不小，含金量也不小。如果能把所有实验都搞定，对操作系统的认识会有质的飞跃。
 
-### **计算机网络**
+## **计算机网络**
 
 参考课程：斯坦福 [CS 144 Introduction to Computer Networking](https://cs144.github.io/)
 
@@ -118,7 +118,7 @@ tags: CS 指南
 
 说明：计算机网络知识和技能，是互联网应用开发的基础，也是成为系统架构师的基础。这门CS 144和配套书《计算机网络：自顶向下方法》，是目前最佳的学习计算机网络基础的课程和参考书。这也是一门投入产出比比较高的课(学了马上能用)。
 
-### **编译原理**
+## **编译原理**
 
 参考书籍：[Crafting Interpreters](https://www.craftinginterpreters.com/contents.html) 或者 [Write an Interpreter in Go](https://www.amazon.com/Writing-Interpreter-Go-Thorsten-Ball/dp/3982016118)
 
@@ -134,7 +134,7 @@ tags: CS 指南
 
 说明：视频可以不看，但是一定要自己动手实现一个小语言解释器或者编译器。
 
-### **数据库系统**
+## **数据库系统**
 
 参考课程：卡耐基梅隆CMU [15-445/645 Database Systems](https://15445.courses.cs.cmu.edu/fall2020/)
 
