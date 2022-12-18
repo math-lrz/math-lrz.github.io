@@ -22,7 +22,7 @@ url     : https://math-lrz.github.io # the base hostname & protocol for your sit
 baseurl : # does not include hostname
 title   : math-lrz
 description: > # this means to ignore newlines until "Language & timezone"
-  Forever weeping,forever youthful.
+  A student from the Mathematics department of CUPK21.
 ## => Language and Timezone
 ##############################
 lang: en # the language of your site, default as "en"
