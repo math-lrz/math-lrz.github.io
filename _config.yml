@@ -213,8 +213,7 @@ defaults:
       show_subscribe: false
       pageview: true
       articles_excerpt_type: html
-      sidebar:
-        nav: docs-en
+
       
 
 ## => Plugins
