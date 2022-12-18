@@ -28,7 +28,34 @@ description: > # this means to ignore newlines until "Language & timezone"
 lang: en # the language of your site, default as "en"
 timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
-
+header:
+      en:       Home
+      zh:       主页
+      zh-Hans:  主页
+    url:        /index.html
+  - titles:
+      en:       Archive
+      zh:       归档
+      zh-Hans:  归档
+    url:        /archive.html
+  - titles:
+      en:       About
+      zh:       关于
+      zh-Hans:  关于
+    url:        /about.html
+  - title:      GitHub
+    url:        https://github.com/math-lrz.github.io
+    
+    docs-en:
+  - title:      Home
+    url:        /index.html
+  - title:      Archive
+    url:        /archive.html
+  - title:      About
+    url:        /about.html
+  - title:      GitHub
+    url:        https://github.com/math-lrz.github.io
+        
 ## => Author and Social
 ##############################
 author:
@@ -214,6 +241,8 @@ defaults:
       show_subscribe: false
       pageview: true
       articles_excerpt_type: html
+      sidebar:
+        nav: docs-en
       
 
 ## => Plugins
